@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm/react-native-top-tabs.png)](https://nodei.co/npm/react-native-top-tabs/)
+
 a height performance fork of https://github.com/yeswanth/react-native-dynamic-tab-view
 
 <p align="center" >
