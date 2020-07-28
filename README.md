@@ -1,4 +1,8 @@
-a fork of https://github.com/yeswanth/react-native-dynamic-tab-view 
+a height performance fork of https://github.com/yeswanth/react-native-dynamic-tab-view
+
+<p align="center" >
+        <a href="https://github.com/maherzaidoune/"><img src="https://github.com/maherzaidoune/react-native-tabs/blob/master/tabs.gif" title="tabs" /></a>
+</p>
 
 ## Features 
 - Easy to use and easy to read code
